@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam", "oop-assignment-2-2025-77804\Exam.csproj", "{F699E800-2CA3-4DD4-BEEF-B5C7E35CCF58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.Tests", "Exam.Tests\Exam.Tests.csproj", "{407CE1D6-E13E-4408-900C-31D4F4C52D3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-assignment-2.Tests", "Exam.Tests\oop-assignment-2.Tests.csproj", "{407CE1D6-E13E-4408-900C-31D4F4C52D3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
