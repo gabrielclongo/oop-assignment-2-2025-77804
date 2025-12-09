@@ -15,7 +15,7 @@ namespace oop_assignment_2_2025_77804.Exam.Questions
             }
             catch (ArgumentOutOfRangeException)
             {
-                return "You must be at least 18 to register!";
+                return "Ops! You must be at least 18 to register!";
             }
         }
 

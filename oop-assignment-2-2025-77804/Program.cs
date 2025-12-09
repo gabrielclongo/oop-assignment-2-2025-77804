@@ -7,7 +7,7 @@ namespace oop_assignment_2_2025_77804.Exam
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Running Exam Questions...\n");
+            Console.WriteLine("Final Results...\n");
 
             ExamQuestion_1A.Run();
             ExamQuestion_1B.Run();
